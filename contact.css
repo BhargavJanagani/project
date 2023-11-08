@@ -1,0 +1,29 @@
+h1{
+    font-family:'Segoe UI';
+    font-weight:700;
+    border-radius: 30px;
+    width: fit-content;
+    color: #a61e5b;
+    /* color: rgb(103, 4, 4); */
+    
+}
+.form{
+    font-size: xx-large;
+    width: 50%;
+    /* padding-left: 30px; */
+}
+.form input{
+    font-size: x-large;
+}
+button{
+    font-size:x-large;
+    
+}
+.img{
+    margin-left: 50%;
+    margin-top: -45%;
+    margin-right: 90px;
+}
+iframe{
+    padding-top: 30px;
+}
